@@ -11,7 +11,7 @@
   <img width="100%" alt="trophies" src="https://github-profile-trophy.vercel.app/?username=danbugs&amp;rank=A&amp;theme=juicyfresh" />
 </div>
 <div>
-  <img align="left" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbugs&amp;hide=css,html,shell,plpgsql&amp;theme=merko&amp;langs_count=8&amp;layout=compact" />
+  <img height="170" align="left" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbugs&amp;hide=css,html,shell,plpgsql&amp;theme=merko&amp;langs_count=8&amp;layout=compact" />
   <img alt="stats" src="https://github-readme-stats.vercel.app/api/?username=danbugs&amp;theme=merko&amp;show_icons=true" />
 </div>
 
