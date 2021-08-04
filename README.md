@@ -8,11 +8,11 @@
 ### My Stats
 
 <div>
-  <img width="100%" alt="trophies" src="https://github-profile-trophy.vercel.app/?username=danbugs&amp;rank=A,AA&amp;theme=juicyfresh" />
+  <img width="100%" alt="trophies" src="https://github-profile-trophy.vercel.app/?username=danbugs&rank=A,AA,AAA,S,SS,SSS,SECRET&theme=juicyfresh" />
 </div>
 <div>
-  <img height="170" align="left" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbugs&amp;hide=css,html,shell,plpgsql&amp;theme=merko&amp;langs_count=8&amp;layout=compact" />
-  <img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api/?username=danbugs&amp;theme=merko&amp;show_icons=true" />
+  <img height="170" align="left" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbugs&hide=css,html,shell,plpgsql&theme=merko&langs_count=8&layout=compact" />
+  <img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api/?username=danbugs&theme=merko&show_icons=true" />
 </div>
 
 ### Azure DevOps Projects
