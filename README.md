@@ -7,17 +7,16 @@
 
 ### My Stats
 
-<div>
-  <img width="100%" alt="trophies" src="https://github-profile-trophy.vercel.app/?username=danbugs&rank=A,AA,AAA,S,SS,SSS,SECRET&theme=juicyfresh" />
-</div>
-<div>
-  <img height="170" align="left" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbugs&hide=css,html,shell,plpgsql&theme=merko&langs_count=8&layout=compact" />
-  <img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api/?username=danbugs&theme=merko&show_icons=true" />
-</div>
+![trophies](https://github-profile-trophy.vercel.app/?username=danbugs&rank=A,AA,AAA,S,SS,SSS,SECRET&theme=juicyfresh)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danbugs&hide=css,html,shell,plpgsql&theme=merko&langs_count=8&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api/?username=danbugs&theme=merko&show_icons=true)
+
+### Featured
+
+- [Building Pikachu Volleyball](https://gamedev.rs/news/017/#building-pikachu-volleyball)
 
 ### Azure DevOps Projects
 
 - [GamEd](https://dev.azure.com/gamed-org/gamed)
 - [Roam](https://dev.azure.com/danbia/_git/roam)
 - [Improov](https://dev.azure.com/danbia/_git/improov)
-- [COSC310](https://dev.azure.com/COSC310/_git/COSC310)
