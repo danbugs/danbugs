@@ -13,6 +13,8 @@ I love helping people learn! Here are some of the things I am doing:
 
 On my free-time, I like playing Super Smash Bros. Ultimate, and watching Star Trek.
 
+Talk to me on Twitter: [@danologue](https://twitter.com/danologue).
+
 ## Talks I've Given
 
 - [wasi-cloud: The Future of Cloud Computing with WebAssembly](https://youtu.be/Z7cSjIp7vRg?feature=shared)
