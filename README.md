@@ -1,22 +1,17 @@
 ### Hello, there 👋
 
-- 📺 You probably know me from my [YouTube Channel](https://www.youtube.com/c/danlogs)!
-- 🦀🕸 I'm a WASM and Rust enthusiast.
-- 🔗 Pronouns: [he/him](http://pronoun.is/he).
-- 🛸🎮 I'm a Star Trek, and SSBU fan.
+Name's Dan.
 
-### My Stats
+I work Microsoft on a project called Hyperlight. You can learn more about it [here](https://youtu.be/Tz2SOjKZwVA?feature=shared). Previously, I worked on [SpiderLightning/`slight`](https://github.com/deislabs/spiderlightning).
 
-![trophies](https://github-profile-trophy.vercel.app/?username=danbugs&rank=A,AA,AAA,S,SS,SSS,SECRET&theme=juicyfresh)
+I am a champion to [7 WASI proposals](https://github.com/WebAssembly/WASI/blob/main/Proposals.md): `wasi:http`, `wasi;keyvalue`, `wasi:config`, `wasi:blobstore`, `wasi-distributed-lock-service`, `wasi:messaging`, and `wasi:sql`.
+
+I love helping people learn! Here are some of the things I am doing:
+    - I teach people Rust/Wasm on my [YouTube Channel - danlogs](https://www.youtube.com/c/danlogs).
+    - I am working with Manning on publishing a book for Wasm on the server-side. The book's code is partially available [here](https://github.com/danbugs/serverside-wasm-book-code).
+    - I am working with Udacity on an intro to Rust course.
+
+On my free-time, I like playing Super Smash Bros. Ultimate, and watching Star Trek.
+
+Here's a fun stat:
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danbugs&hide=css,html,shell,plpgsql&theme=merko&langs_count=8&layout=compact)
-![stats](https://github-readme-stats.vercel.app/api/?username=danbugs&theme=merko&show_icons=true)
-
-### Featured
-
-- [Building Pikachu Volleyball](https://gamedev.rs/news/017/#building-pikachu-volleyball)
-
-### Azure DevOps Projects
-
-- [GamEd](https://dev.azure.com/gamed-org/gamed)
-- [Roam](https://dev.azure.com/danbia/_git/roam)
-- [Improov](https://dev.azure.com/danbia/_git/improov)
