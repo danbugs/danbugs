@@ -19,7 +19,7 @@ Talk to me on Twitter: [@danologue](https://twitter.com/danologue).
 
 - [wasi-cloud: The Future of Cloud Computing with WebAssembly](https://youtu.be/Z7cSjIp7vRg?feature=shared)
 - [Sandboxing Your Sandbox: Leveraging Hypervisors for WebAssembly Security](https://youtu.be/v1bI1eHVwAw?feature=shared)
-- [A New Kind of Cloud Native Interface with WebAssembly](https://youtu.be/LPevmMY8KcE?feature=shared)
+- [A New Kind of Cloud Native Interface with WebAssembly](https://youtu.be/ssdmluOMfPM?feature=shared)
 - [An Introduction to WebAssembly: From the Browser to the SpiderLightning Cloud](https://youtu.be/LPevmMY8KcE?feature=shared)
 
 ## Fun Stats
