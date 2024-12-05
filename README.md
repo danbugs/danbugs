@@ -21,6 +21,7 @@ Talk to me on Twitter: [@danologue](https://twitter.com/danologue).
 - [Sandboxing Your Sandbox: Leveraging Hypervisors for WebAssembly Security](https://youtu.be/v1bI1eHVwAw?feature=shared)
 - [A New Kind of Cloud Native Interface with WebAssembly](https://youtu.be/ssdmluOMfPM?feature=shared)
 - [An Introduction to WebAssembly: From the Browser to the SpiderLightning Cloud](https://youtu.be/LPevmMY8KcE?feature=shared)
+- [Virtual Machines, Containers, and WebAssembly Face-off](https://youtu.be/IwjGnxS-GaQ?feature=shared)
 
 ## Fun Stats
 
