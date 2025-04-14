@@ -22,6 +22,7 @@ Talk to me on Twitter: [@danologue](https://twitter.com/danologue).
 - [A New Kind of Cloud Native Interface with WebAssembly](https://youtu.be/ssdmluOMfPM?feature=shared)
 - [An Introduction to WebAssembly: From the Browser to the SpiderLightning Cloud](https://youtu.be/LPevmMY8KcE?feature=shared)
 - [Virtual Machines, Containers, and WebAssembly Face-off](https://youtu.be/IwjGnxS-GaQ?feature=shared)
+- [Wasm, Envoy, and Hyperlight Walk Into a Pod: No Vulnerabilities Allowed](https://youtu.be/83Dv8vymBZs?feature=shared)
 
 ## Fun Stats
 
