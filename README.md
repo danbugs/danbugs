@@ -4,7 +4,7 @@ Name's Dan.
 
 I work at Microsoft on a project called [Hyperlight](https://youtu.be/Tz2SOjKZwVA?feature=shared). Previously, I worked on [SpiderLightning/`slight`](https://github.com/deislabs/spiderlightning).
 
-I am a champion to [7 WASI proposals](https://github.com/WebAssembly/WASI/blob/main/Proposals.md): `wasi:http`, `wasi;keyvalue`, `wasi:config`, `wasi:blobstore`, `wasi-distributed-lock-service`, `wasi:messaging`, and `wasi:sql`.
+I am a champion to [7 WASI proposals](https://github.com/WebAssembly/WASI/blob/main/Proposals.md): `wasi:http`, `wasi:keyvalue`, `wasi:config`, `wasi:blobstore`, `wasi-distributed-lock-service`, `wasi:messaging`, and `wasi:sql`.
 
 I love helping people learn! Here are some of the things I am doing:
 - I am teaching people Rust/Wasm on my [YouTube Channel - danlogs](https://www.youtube.com/c/danlogs).
