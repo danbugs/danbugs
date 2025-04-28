@@ -8,7 +8,7 @@ I am a champion to [7 WASI proposals](https://github.com/WebAssembly/WASI/blob/m
 
 I love helping people learn! Here are some of the things I am doing:
 - I am teaching people Rust/Wasm on my [YouTube Channel - danlogs](https://www.youtube.com/c/danlogs).
-- I am working with Manning on publishing a book for Wasm on the server-side. The book's code is partially available [here](https://github.com/danbugs/serverside-wasm-book-code). You can check out the book's early preview [here](https://www.manning.com/books/server-side-webassembly)
+- I am working with Manning on publishing a book for Wasm on the server-side. The book's code is partially available [here](https://github.com/danbugs/serverside-wasm-book-code). You can check out the book's early preview [here](https://mng.bz/VVjx)
 - I made an Intro to Rust course with [Udacity](https://www.udacity.com/), you can check it out [here](https://www.udacity.com/course/intro-to-rust--cd13678).
 
 On my free-time, I like playing fighting games (e.g., Super Smash Bros. Ultimate), and watching post-apocalyptic shows (e.g., Star Trek).
