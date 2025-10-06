@@ -23,6 +23,7 @@ Talk to me on Twitter: [@danologue](https://twitter.com/danologue).
 - [An Introduction to WebAssembly: From the Browser to the SpiderLightning Cloud](https://youtu.be/LPevmMY8KcE?feature=shared)
 - [Virtual Machines, Containers, and WebAssembly Face-off](https://youtu.be/IwjGnxS-GaQ?feature=shared)
 - [Wasm, Envoy, and Hyperlight Walk Into a Pod: No Vulnerabilities Allowed](https://youtu.be/83Dv8vymBZs?feature=shared)
+- [Re-Engineering Microsoft’s Hyperlight in Rust](https://youtu.be/UMofWL3GjWw?si=S0Rp1gMRUrewe1Ew)
 
 ## Fun Stats
 
