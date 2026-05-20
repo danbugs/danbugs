@@ -2,9 +2,7 @@
 
 Name's Dan.
 
-I work at Microsoft on a project called [Hyperlight](https://youtu.be/Tz2SOjKZwVA?feature=shared). Previously, I worked on [SpiderLightning/`slight`](https://github.com/deislabs/spiderlightning).
-
-I am a champion to [7 WASI proposals](https://github.com/WebAssembly/WASI/blob/main/Proposals.md): `wasi:http`, `wasi:keyvalue`, `wasi:config`, `wasi:blobstore`, `wasi-distributed-lock-service`, `wasi:messaging`, and `wasi:sql`.
+I work at Microsoft on a project called [Hyperlight](https://youtu.be/Tz2SOjKZwVA?feature=shared). Previously, I worked on [SpiderLightning/`slight`](https://github.com/deislabs/spiderlightning), which became [7 WASI proposals](https://github.com/WebAssembly/WASI/blob/main/Proposals.md) (e.g., `wasi:http`, `wasi:keyvalue`, `wasi:messaging`, etc.).
 
 I love helping people learn! Here are some of the things I've done:
 - I have a YouTube channel: [danlogs](https://www.youtube.com/c/danlogs).
@@ -24,5 +22,5 @@ Talk to me on Twitter: [@danologue](https://twitter.com/danologue).
 - [Virtual Machines, Containers, and WebAssembly Face-off](https://youtu.be/IwjGnxS-GaQ?feature=shared)
 - [Wasm, Envoy, and Hyperlight Walk Into a Pod: No Vulnerabilities Allowed](https://youtu.be/83Dv8vymBZs?feature=shared)
 - [Re-Engineering Microsoft’s Hyperlight in Rust](https://youtu.be/UMofWL3GjWw?si=S0Rp1gMRUrewe1Ew)
-- [VM-Class Secure, Millisecond-Fast Cloud-Native Apps With Hyperlight + Nanvix](https://youtu.be/uA8WitzWeN4?si=_kIROW8RXM2CMrYi) — Cloud Native Rejekts NA 2025
-- [Running Wasmtime in Hardware-Isolated Microenvironments](https://youtu.be/jwta07eFEJE?si=Mus3e-elTH68Y8yK) — WasmCon EU 2026
+- [VM-Class Secure, Millisecond-Fast Cloud-Native Apps With Hyperlight + Nanvix](https://youtu.be/uA8WitzWeN4?si=_kIROW8RXM2CMrYi)
+- [Running Wasmtime in Hardware-Isolated Microenvironments](https://youtu.be/jwta07eFEJE?si=Mus3e-elTH68Y8yK)
