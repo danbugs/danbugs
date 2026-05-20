@@ -6,10 +6,10 @@ I work at Microsoft on a project called [Hyperlight](https://youtu.be/Tz2SOjKZwV
 
 I am a champion to [7 WASI proposals](https://github.com/WebAssembly/WASI/blob/main/Proposals.md): `wasi:http`, `wasi:keyvalue`, `wasi:config`, `wasi:blobstore`, `wasi-distributed-lock-service`, `wasi:messaging`, and `wasi:sql`.
 
-I love helping people learn! Here are some of the things I am doing:
-- I am teaching people Rust/Wasm on my [YouTube Channel - danlogs](https://www.youtube.com/c/danlogs).
-- I am working with Manning on publishing a book for Wasm on the server-side. The book's code is partially available [here](https://github.com/danbugs/serverside-wasm-book-code). You can check out the book's early preview [here](https://mng.bz/VVjx)
-- I made an Intro to Rust course with [Udacity](https://www.udacity.com/), you can check it out [here](https://www.udacity.com/course/intro-to-rust--cd13678).
+I love helping people learn! Here are some of the things I've done:
+- I have a YouTube channel: [danlogs](https://www.youtube.com/c/danlogs).
+- I wrote a book on server-side WebAssembly published by Manning: [Server-Side WebAssembly](https://www.manning.com/books/server-side-webassembly).
+- I made an [Intro to Rust](https://www.udacity.com/course/intro-to-rust--cd13678) course with Udacity.
 
 On my free-time, I like playing fighting games (e.g., Super Smash Bros. Ultimate), and watching post-apocalyptic shows (e.g., Star Trek).
 
@@ -24,9 +24,5 @@ Talk to me on Twitter: [@danologue](https://twitter.com/danologue).
 - [Virtual Machines, Containers, and WebAssembly Face-off](https://youtu.be/IwjGnxS-GaQ?feature=shared)
 - [Wasm, Envoy, and Hyperlight Walk Into a Pod: No Vulnerabilities Allowed](https://youtu.be/83Dv8vymBZs?feature=shared)
 - [Re-Engineering Microsoft’s Hyperlight in Rust](https://youtu.be/UMofWL3GjWw?si=S0Rp1gMRUrewe1Ew)
-- [VM-Class Secure, Millisecond-Fast Cloud-Native Apps With Hyperlight + Nanvix](https://youtu.be/uA8WitzWeN4?si=_kIROW8RXM2CMrYi)
-- [Running Wasmtime in Hardware-Isolated Microenvironments](https://youtu.be/jwta07eFEJE?si=Mus3e-elTH68Y8yK)
-
-## Fun Stats
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danbugs&hide=css,html,shell,plpgsql&theme=merko&langs_count=8&layout=compact)
+- [VM-Class Secure, Millisecond-Fast Cloud-Native Apps With Hyperlight + Nanvix](https://youtu.be/uA8WitzWeN4?si=_kIROW8RXM2CMrYi) — Cloud Native Rejekts NA 2025
+- [Running Wasmtime in Hardware-Isolated Microenvironments](https://youtu.be/jwta07eFEJE?si=Mus3e-elTH68Y8yK) — WasmCon EU 2026
