@@ -24,6 +24,8 @@ Talk to me on Twitter: [@danologue](https://twitter.com/danologue).
 - [Virtual Machines, Containers, and WebAssembly Face-off](https://youtu.be/IwjGnxS-GaQ?feature=shared)
 - [Wasm, Envoy, and Hyperlight Walk Into a Pod: No Vulnerabilities Allowed](https://youtu.be/83Dv8vymBZs?feature=shared)
 - [Re-Engineering Microsoft’s Hyperlight in Rust](https://youtu.be/UMofWL3GjWw?si=S0Rp1gMRUrewe1Ew)
+- [VM-Class Secure, Millisecond-Fast Cloud-Native Apps With Hyperlight + Nanvix](https://youtu.be/uA8WitzWeN4?si=_kIROW8RXM2CMrYi)
+- [Running Wasmtime in Hardware-Isolated Microenvironments](https://youtu.be/jwta07eFEJE?si=Mus3e-elTH68Y8yK)
 
 ## Fun Stats
 
